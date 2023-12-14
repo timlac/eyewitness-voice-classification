@@ -1,2 +1,2 @@
 # eyewitness-voice-classification
-Machine learning predicts accuracy in eyewitnesses voices
+Machine learning to predict accuracy in eyewitnesses voices
